@@ -9,6 +9,9 @@ def test2():
 def test3():
     assert sample.fizzbuzz(3) == "Fizz"
 
+def test4():
+    assert sample.fizzbuzz(100) == "Buzz"
+
 
 
 
